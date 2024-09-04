@@ -1,0 +1,2 @@
+# Aprendendo
+aprendizado de fastAPI
